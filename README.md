@@ -47,7 +47,3 @@ My final project submission for [#GenerasiGIGIH](https://sites.google.com/anakba
 ## Feedback
 
 If you have any feedback, you can create issue(s) [here](https://github.com/azmi72/fpgg-spotisky.git/issues)
-
-## Etc
-
-Please tell me if you want to login, send me your username and email for your spotify account, because these website still under development so you can't just login. 0/50 . you can send it to my feedback ⬆
