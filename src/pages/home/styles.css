@@ -1,0 +1,29 @@
+.home {
+    margin: .5rem 0;
+    padding: .75rem
+  }
+
+.subtitle {
+    text-align: left;
+}
+
+  .content {
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    margin-top: 10px;
+    overflow: hidden;
+  }
+ 
+  @media (max-width: 992px) {
+    .content { 
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .content { 
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
