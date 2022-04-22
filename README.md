@@ -20,7 +20,7 @@ My final project submission for [#GenerasiGIGIH](https://sites.google.com/anakba
 
 ## Environment Variables
 
-- `REACT_APP_URL` contains the app Base URL e.g. `https://localhost:3000/`
+- `REACT_APP_BASE_URL` contains the app Base URL e.g. `http://localhost:3000/redirect`
 - `REACT_APP_SPOTIFY_CLIENT_ID` contains Spotify Client ID
 
 ## Run on Local
