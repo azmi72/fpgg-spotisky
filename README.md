@@ -27,11 +27,11 @@ My final project submission for [#GenerasiGIGIH](https://sites.google.com/anakba
 
 - Clone the project
   ```bash
-    git clone https://github.com/azmi72/fpgigih-music.git
+    git clone https://github.com/azmi72/fpgg-spotisky.git
   ```
 - Go to the project directory
   ```bash
-    cd fpgigih-music
+    cd fpgg-spotisky
   ```
 - Install dependencies
   ```bash
@@ -46,7 +46,7 @@ My final project submission for [#GenerasiGIGIH](https://sites.google.com/anakba
 
 ## Feedback
 
-If you have any feedback, you can create issue(s) [here](https://github.com/azmi72/fpgigih-music.git/issues)
+If you have any feedback, you can create issue(s) [here](https://github.com/azmi72/fpgg-spotisky.git/issues)
 
 ## Etc
 
