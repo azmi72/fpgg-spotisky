@@ -4,9 +4,10 @@ My final project submission for [#GenerasiGIGIH]. This app consume Spotify API t
 
 ## Screenshots
 
-![Login Page Spotisky Music](https://user-images.githubusercontent.com/61286109/164911375-7c5f4aac-09ef-4ab9-9ffd-8ac24f463142.PNG) alt="Login Page" />
-<center><img  alt="Your Playlist Page" /></center>
-<center><img  alt="Create Playlist Page" /></center>
+![Login Page Spotisky Music](https://user-images.githubusercontent.com/61286109/164911375-7c5f4aac-09ef-4ab9-9ffd-8ac24f463142.PNG)
+![Your Playlist Spotisky Music](https://user-images.githubusercontent.com/61286109/164911520-74ef8c44-00b5-427b-9ffe-1b482c78db7a.PNG)
+![Create Playlist Spotisky Music](https://user-images.githubusercontent.com/61286109/164911545-22a2f71e-68a6-4633-816c-8352f83e42d4.PNG)
+
 
 ## Features
 
