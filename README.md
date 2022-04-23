@@ -11,10 +11,11 @@ My final project submission for [#GenerasiGIGIH]. This app consume Spotify API t
 
 ## Features
 
-- 🎇 The main feature is to **create playlists**
-- 🌏 You also can have a new reference with the **new releases** page
-- 🌑 When the night's come for protecting your eyes we have a **dark mode**
-- 😁 And We still have a lot of surprises, so open us !!! 🙇🏻‍♂️
+- Login Users
+- Home Page
+- Search
+- Create Playlist
+- User Profile
 
 ## Powered by
 
